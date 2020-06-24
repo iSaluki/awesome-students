@@ -34,7 +34,7 @@ Some of the listed services may also be avaliable via another service (eg - Boot
 
 # About
 
-This guide is provided and made for free, for the use of anyone. There is no guarantee the information will all be accurate at the time you read it. Please opne an issue if you notice an error or would like to request something be added.
+This guide is provided and made for free, for the use of anyone. There is no guarantee the information will all be accurate at the time you read it. Please open an issue if you notice an error or would like to request something be added.
 
 
 
