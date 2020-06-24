@@ -1,4 +1,4 @@
-# Awesome things for students
+# Awesome things for students (and teachers, and everyone else)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)<br />
 This is currently in development, but should soon be a reasonably comprehensive list of awesome things that students can access (from free tools, to discounts).
 Some of the listed services may also be avaliable via another service (eg - Bootstrap Studio can be claimed via the GitHub Student Pack, but you can also request a student license directly from the developer.)
