@@ -8,7 +8,7 @@ Some of the listed services may also be avaliable via another service (eg - Boot
 
 [**Bootstrap Studio**](https://bootstrapstudio.io/) - Create beautiful Bootstrap websites without the need for code. You can also host 2 websites with the student pack for free using a CNAME record or custom subdomain. Apply directly [HERE](https://bootstrapstudio.io/pages/student-license)
 
-[**DigitalOcean**](https://www.digitalocean.com/) - A cloud platform for developers. You can host VMs (they call them droplets) as well as kubernetes, databases and much more for a fixed monthly price. ***NOTE:*** The GitHub Student Pack offers you $50 of credit for new accounts, however if you use [this link](https://m.do.co/c/0562a039be1b) or any other referal code, you can get $100 of credit for free. Credit from a referal code expires sooner.
+[**DigitalOcean**](https://www.digitalocean.com/) - A cloud platform for developers. You can host VMs (they call them droplets) as well as kubernetes, databases and much more for a fixed monthly price. ***NOTE:*** The GitHub Student Pack offers you $50 of credit for new accounts, however if you use [this link](https://m.do.co/c/0562a039be1b) or any other referral code, you can get $100 of credit for free. Credit from a referral code expires sooner.
 
 
 
