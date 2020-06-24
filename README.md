@@ -39,6 +39,7 @@ This guide is provided and made for free, for the use of anyone. There is no gua
 
 
 <br />
+
 *Do you know about something awesome for students? Let us know!*
 
 
